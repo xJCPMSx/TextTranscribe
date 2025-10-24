@@ -1,0 +1,804 @@
+Idioma: pt (p=1.00)
+[0.30s -> 4.24s]  Eu vou começar explicando mais ou menos o porquê da entrevista.
+[4.96s -> 7.28s]  A gente está fazendo uma matéria de estágio básico,
+[7.80s -> 11.64s]  onde cada grupo precisa conhecer alguma área da psicologia.
+[12.42s -> 16.18s]  A gente teve que ler um livro, deixa eu só ver o nome do livro que eu esqueci.
+[16.94s -> 19.88s]  É o Conselho Federal de Psicologia e Referências Técnicas
+[19.88s -> 23.72s]  para a Atuação da Psicologia no Sistema Prisional e Jurídico.
+[23.72s -> 26.80s]  Aí a gente tava procurando profissionais
+[26.80s -> 29.14s]  Que já atuaram
+[29.14s -> 31.02s]  Ou atuam nessa área ou tem conhecimento
+[31.02s -> 33.40s]  Sobre pra gente conhecer um pouco mais
+[33.40s -> 34.96s]  No final a gente apresentar pra turma
+[34.96s -> 37.56s]  Porque a gente acaba na faculdade não vendo muito
+[37.56s -> 38.56s]  Então
+[38.56s -> 41.58s]  Abrir o leque das pessoas de opções
+[41.58s -> 43.46s]  Sim, eu vou te pedir
+[43.46s -> 45.18s]  Desculpa, eu tô aqui
+[45.18s -> 47.78s]  Meio reclinada na cama porque eu tô muito gripada
+[47.78s -> 48.88s]  Então minha voz
+[48.88s -> 51.52s]  Vai ficar meio estranha
+[51.52s -> 53.40s]  Mas vamos lá, sem problema nenhum
+[53.40s -> 55.94s]  pode fazer as perguntas que você considerar.
+[56.22s -> 57.22s]  Tá bom, obrigada.
+[57.46s -> 58.14s]  Sem problema.
+[58.78s -> 61.56s]  Eu primeiro queria saber a sua função
+[61.56s -> 63.20s]  dentro da psicologia.
+[63.34s -> 65.04s]  O que você já trabalhou nessa área?
+[66.46s -> 67.14s]  Então,
+[68.06s -> 70.74s]  esse ano
+[70.74s -> 73.12s]  eu estou completando 30 anos de formada,
+[73.12s -> 74.64s]  então, quase
+[74.64s -> 77.60s]  talvez mais do que a idade de vocês,
+[77.82s -> 80.98s]  de boa parte do grupo.
+[81.84s -> 83.20s]  E desde sempre,
+[83.20s -> 89.94s]  Desde o período da graduação, a psicologia jurídica me chamou a atenção.
+[91.20s -> 100.34s]  No início da minha graduação, eu fiquei muito insegura se eu tinha escolhido a profissão correta.
+[101.28s -> 109.42s]  Isso até os professores sinalizavam para mim, porque eu tinha indagações que a psicologia não me dava resposta,
+[109.42s -> 116.42s]  que eram questões mais de ordem social, sobre a pobreza, sobre a exclusão social.
+[117.04s -> 123.50s]  Eu me preocupava mais com essas questões do que com questões individuais, intrapsíquicas.
+[124.34s -> 128.20s]  E os professores sempre sinalizavam para mim, Patrícia, você é uma excelente aluna,
+[128.32s -> 134.54s]  mas eu acho que talvez você despontasse mais num curso de ciências sociais.
+[134.54s -> 154.80s]  Então eu ouvi isso até ali o quarto, quinto período, quando eu acessei uma professora que estava fazendo pesquisa dentro das instituições para adolescentes em conflito com a lei, o Degasi, na ilha do governador, e ela estava precisando de um auxiliar de pesquisa.
+[154.80s -> 158.14s]  E eu me candidatei
+[158.14s -> 160.04s]  Porque entendi que ali
+[160.04s -> 161.78s]  Talvez eu pudesse ver
+[161.78s -> 164.22s]  Algo mais de natureza social
+[164.22s -> 166.20s]  No sentido de
+[166.20s -> 168.48s]  Tentar entender porque aqueles meninos
+[168.48s -> 170.04s]  Se envolviam em crimes
+[170.04s -> 171.82s]  Todas as questões sociais
+[171.82s -> 173.50s]  Que estavam ligadas a isso
+[173.50s -> 175.44s]  Isso eu estava ali
+[175.44s -> 178.00s]  No quinto, sexto, sexto período
+[178.00s -> 179.86s]  E fiquei nessa pesquisa
+[179.86s -> 181.94s]  Até me formar
+[181.94s -> 183.82s]  Onde eu fiquei um ano
+[183.82s -> 185.74s]  em cada uma dessas unidades.
+[186.02s -> 187.64s]  Na Ilha do Governador são três.
+[188.10s -> 192.58s]  Então eu fiz um estágio bastante robusto nessa área
+[192.58s -> 199.02s]  e nunca mais consegui abandonar essa discussão,
+[199.28s -> 201.76s]  seja com adolescentes em conflito com a lei
+[201.76s -> 206.22s]  e depois de formada mais voltada para o sistema prisional.
+[207.40s -> 211.64s]  Então era uma escolha por trabalhar com pessoas
+[211.64s -> 213.92s]  que geralmente as pessoas não querem trabalhar,
+[214.20s -> 217.80s]  que a própria psicologia não tem tanto investimento,
+[218.38s -> 221.60s]  por mais que seja uma das áreas importantes
+[221.60s -> 226.78s]  e que mais cresce da psicologia, é a psicologia jurídica,
+[227.78s -> 230.92s]  muita gente não quer trabalhar com o agressor,
+[230.92s -> 233.72s]  muita gente não quer trabalhar com aquela pessoa
+[233.72s -> 238.66s]  que produziu, entre aspas, o mal, enfim, com toda essa discussão.
+[238.66s -> 244.74s]  Bom, depois de formada, eu fui buscar uma especialização em psicologia jurídica,
+[245.24s -> 251.02s]  porque se você hoje me sinalizou, e é verdade, eu sou professora de graduação de psicologia,
+[251.66s -> 254.90s]  que na faculdade a gente quase não vê psicologia jurídica,
+[254.92s -> 258.46s]  e quando vê, é uma disciplina eletiva, às vezes online.
+[258.46s -> 258.84s]  Sim.
+[260.46s -> 264.94s]  Na minha época, 30 anos atrás, isso ainda era mais raro.
+[265.02s -> 268.46s]  Às vezes é dado até pelo professor de direito, não é dado nem também.
+[268.66s -> 278.10s]  um psicólogo. Isso não é alguém da psicologia. Então, eu achava que por mais que eu tivesse tido a experiência prática com essa professora,
+[278.74s -> 289.56s]  eu precisava me qualificar nisso que eu tinha muita clareza que seria a minha escolha profissional, que seria eu na psicologia,
+[289.56s -> 292.30s]  seria isso, a psicóloga jurídica.
+[293.10s -> 293.94s]  E assim fiz.
+[294.10s -> 297.16s]  Aí eu fiz a formação de dois anos na UERJ,
+[297.26s -> 299.06s]  que infelizmente não existe mais,
+[299.16s -> 301.10s]  era um dos cursos mais robustos
+[301.10s -> 304.78s]  de especialização em psicologia jurídica.
+[304.78s -> 308.50s]  E logo ali, no meio do caminho da especialização,
+[309.00s -> 310.76s]  eu fui apresentar esse trabalho
+[310.76s -> 313.62s]  que eu realizei ainda na graduação
+[313.62s -> 315.02s]  com essa professora
+[315.02s -> 319.46s]  sobre a motivação para o delito.
+[319.56s -> 328.58s]  E tinha uma professora da Fiocruz que estava voltando de um pós-doc, essas coincidências da vida.
+[328.96s -> 335.76s]  E que estava precisando de alguém para tocar uma pesquisa que ela queria fazer dentro dessas instituições.
+[336.42s -> 339.94s]  E ela não estava achando ninguém com uma experiência já nesse campo.
+[340.84s -> 346.28s]  E aí ela me fez convite e aí eu fui para a Fiocruz com 24 anos.
+[346.28s -> 348.54s]  Hoje eu tenho 54.
+[348.54s -> 356.12s]  Eu estou há 30 anos na Fiocruz. Eu trabalho num departamento de estudos sobre violência e saúde.
+[357.40s -> 368.54s]  E os meus temas de pesquisa, minha produção acadêmica, meus livros, todos vão na direção de discutir hoje mais o sistema prisional.
+[369.40s -> 372.48s]  Antes, as instituições para adolescentes e conflitos com a lei.
+[372.48s -> 381.20s]  de uns 10 anos para cá, 15 mais ou menos, eu tenho me dedicado a escrever sobre as condições de saúde,
+[381.36s -> 386.48s]  principalmente saúde mental das pessoas que estão privadas de liberdade.
+[387.36s -> 392.96s]  Então, a minha entrada dentro do sistema prisional se deu de várias formas.
+[393.78s -> 402.46s]  Tanto um período como psicóloga do sistema, depois como supervisora dos psicólogos do sistema,
+[402.48s -> 408.44s]  e principalmente como pesquisadora, alguém que pensa o sistema
+[408.44s -> 415.80s]  e pensa a partir das pessoas que vivenciam aquelas situações de violência,
+[415.94s -> 418.76s]  violações de direitos, enfim.
+[420.00s -> 427.60s]  Então, o meu caminhar dentro dessa pegada da psicologia jurídica,
+[427.60s -> 434.36s]  mais voltada ao sistema prisional, à vara de execução penal, enfim, se deu por essa via.
+[435.14s -> 437.94s]  Mas a psicologia jurídica é muito ampla, né?
+[438.30s -> 443.34s]  Esse recorte da atuação do sistema prisional é um dos recortes possíveis.
+[443.34s -> 447.10s]  Então eu já trabalhei com crianças e adolescentes, né?
+[447.34s -> 450.48s]  Em instituições de acolhimento, né?
+[450.62s -> 457.56s]  Que são destinadas à medida protetiva, nessa parte de adoção,
+[457.60s -> 467.22s]  Então, enfim, a gente tem um leque de possibilidades de atuação do psicólogo jurídico enorme.
+[467.22s -> 473.00s]  E aí uma das coisas que eu tenho discutido muito hoje, enquanto professora da graduação,
+[473.84s -> 480.66s]  é que é uma área tão importante, tão específica, com tantas possibilidades de atuação,
+[480.66s -> 488.46s]  que requer conhecimentos tão específicos e a formação em psicologia não tem dado esse suporte.
+[489.42s -> 494.50s]  Porque você pode trabalhar com adolescente em conflito com a lei, você pode trabalhar com pessoas presas,
+[494.50s -> 501.86s]  você pode trabalhar em qualquer ONG, em qualquer instituição que trabalhe com violência e violação de direitos.
+[502.52s -> 509.50s]  Você trabalha na vara de família, você trabalha na vara do idoso, você trabalha na vara de crianças e adolescentes.
+[509.50s -> 513.56s]  toda essa discussão mais atual de alienação parental.
+[514.42s -> 520.84s]  Eu sou perita da justiça para situações relacionadas à autópsia psicológica,
+[520.92s -> 523.50s]  não sei se você já ouviu falar em autópsia psicológica.
+[525.52s -> 526.60s]  Um pouco por cima.
+[527.64s -> 535.50s]  É uma discussão mais atual, que é uma técnica para você reconstituir
+[535.50s -> 542.24s]  reconstituir a subjetividade de alguém que se suicidou, tentando entender as motivações.
+[542.64s -> 550.72s]  Então, essa técnica, ela geralmente é requerida pelos juízes quando ele não tem muita clareza
+[550.72s -> 556.08s]  se aquela morte foi acidental, se foi homicídio ou se foi suicídio.
+[556.08s -> 561.62s]  Então, como perita, eu sou cadastrada no Conselho Nacional de Justiça,
+[561.62s -> 567.66s]  quando algum juiz precisa de um profissional que tenha esse recurso,
+[567.98s -> 569.50s]  eu acabo sendo acionada.
+[570.04s -> 573.66s]  Então, assim, tem um rol de possibilidades de atuação
+[573.66s -> 576.00s]  e que a formação não dá conta.
+[576.80s -> 580.66s]  E acho que uma coisa que é importante para vocês que estão na graduação saber
+[580.66s -> 584.18s]  é que existem duas tendências da psicologia jurídica.
+[584.18s -> 588.62s]  Uma tendência que se aproxima mais do modelo clínico
+[588.62s -> 595.12s]  que vai buscar fazer psicodiagnósticos das pessoas que cometeram crime.
+[595.28s -> 596.86s]  Essa não é minha pegada.
+[597.46s -> 602.36s]  E a psicologia social jurídica crítica, que é a que eu faço,
+[603.06s -> 608.22s]  que é essa que vai considerar muito de onde esse sujeito vem,
+[608.34s -> 611.64s]  o próprio contexto, no caso do sistema prisional,
+[612.28s -> 616.28s]  que ele adoece, ele favorece mais violências,
+[616.28s -> 618.84s]  Ele promove violências
+[618.84s -> 620.86s]  Então entender esse comportamento
+[620.86s -> 622.76s]  Atrelado a esse contexto
+[622.76s -> 625.16s]  Então a questão do psicodiagnóstico
+[625.16s -> 627.04s]  Fica para um segundo ou terceiro plano
+[627.04s -> 629.84s]  Nem aparece muito nesse nosso cenário
+[629.84s -> 632.50s]  Só para esclarecer
+[632.50s -> 635.40s]  O caminho que você percorreu
+[635.40s -> 636.88s]  Foi a graduação
+[636.88s -> 639.98s]  Para estar formada nessa área
+[639.98s -> 642.48s]  A graduação, o estágio
+[642.48s -> 645.66s]  E depois a psicologia jurídica pela UERJ
+[645.66s -> 650.70s]  Isso, mas eu sou mestre, doutora e pós-doutora em saúde pública.
+[651.34s -> 658.14s]  E em todas essas minhas formações complementares, o tema da psicologia jurídica esteve presente.
+[658.48s -> 662.92s]  Eu trabalhei no mestrado com meninas envolvidas no tráfico,
+[663.32s -> 670.78s]  eu trabalhei no doutorado sobre a saúde mental de agentes de segurança pública,
+[671.12s -> 673.68s]  no pós-doutorado eu trabalhei em sistema prisional.
+[673.68s -> 683.14s]  Então, toda a minha formação acadêmica é perpassada por esse campo da psicologia jurídica.
+[683.24s -> 688.96s]  Aí, alguém que queira entrar nessa área, quais que você recomenda a pessoa fazer? Qual o caminho?
+[690.08s -> 694.78s]  Eu acho que desde a graduação, eu falo isso muito para os meus alunos,
+[695.08s -> 702.72s]  a gente precisa encontrar o nosso DNA profissional, que é essa especificidade,
+[702.72s -> 707.32s]  porque a psicologia é muito plural e a nossa formação é generalista.
+[708.26s -> 712.10s]  Não necessariamente para trabalhar no campo da psicologia jurídica,
+[712.20s -> 715.48s]  você vai ter que fazer uma especialização, você pode atuar.
+[715.76s -> 718.86s]  Você pode atuar em qualquer campo estando formada.
+[718.86s -> 722.76s]  Mas uma coisa é poder, outra coisa é estar preparada para.
+[724.14s -> 727.68s]  E a gente sabe que a graduação não prepara,
+[728.00s -> 732.02s]  porque a gente vê pouco de muita coisa.
+[732.72s -> 733.36s]  Exatamente.
+[733.90s -> 742.62s]  Então, eu sempre falo para os meus alunos que vocês precisam encontrar aquilo que mobiliza internamente vocês,
+[742.78s -> 745.46s]  que pega na veia, que mexe com vocês.
+[746.10s -> 752.96s]  Uma vez encontrado isso, começar já na graduação um processo de qualificação,
+[753.76s -> 756.46s]  que não vai ser a faculdade que vai te ofertar.
+[757.20s -> 759.52s]  Você vai ter que buscar por fora.
+[759.52s -> 772.44s]  Hoje isso está muito mais facilitado, porque tem vários cursos, várias palestras, podcasts, várias coisas que vocês conseguem acessar e ir fazendo essa formação complementar.
+[772.54s -> 776.02s]  Eu brinco que não tem que correr atrás, tem que correr na frente.
+[776.84s -> 784.78s]  Porque se a gente pensa a quantidade de profissionais que são colocadas no mercado a cada semestre, por cada faculdade, essa conta não fecha.
+[784.78s -> 786.96s]  Não tem mercado para todo mundo.
+[786.96s -> 789.86s]  por mais que vocês
+[789.86s -> 792.54s]  quem gosta da clínica
+[792.54s -> 794.52s]  a clínica não requer que ninguém te
+[794.52s -> 795.14s]  empregue
+[795.14s -> 798.50s]  no início é muito mais investimento
+[798.50s -> 799.50s]  do que retorno
+[799.50s -> 801.58s]  então
+[801.58s -> 804.52s]  se você quer um lugar no mercado
+[804.52s -> 806.38s]  de trabalho, você precisa
+[806.38s -> 808.06s]  mesmo recém formada
+[808.06s -> 810.60s]  já apresentar um currículo
+[810.60s -> 812.72s]  que te direcione
+[812.72s -> 814.56s]  para aquela área que você tem
+[814.56s -> 815.14s]  interesse
+[815.14s -> 817.96s]  Então, a minha sugestão
+[817.96s -> 820.14s]  Busquem cursos extras
+[820.14s -> 824.02s]  Na hora de escolher o estágio
+[824.02s -> 826.78s]  Escolha um estágio que vá na direção
+[826.78s -> 829.96s]  Desse seu interesse
+[829.96s -> 832.88s]  Faça um trabalho de conclusão de curso
+[832.88s -> 836.24s]  Que vá também nessa direção
+[836.24s -> 838.30s]  Porque isso vai dando uma robustez
+[838.30s -> 839.84s]  Para o teu currículo
+[839.84s -> 841.78s]  E vai fazendo um desenho
+[841.78s -> 844.06s]  De quem é você na psicologia
+[844.06s -> 847.56s]  porque hoje dizer que é psicólogo
+[847.56s -> 848.58s]  não está dizendo nada
+[848.58s -> 851.04s]  psicólogo que atua com o que
+[851.04s -> 853.52s]  com que ênfase, com que linha
+[853.52s -> 856.10s]  com que abordagem, vocês sabem disso
+[856.10s -> 859.66s]  e depois de se formar, lógico
+[859.66s -> 862.36s]  fazer uma especialização
+[862.36s -> 866.30s]  nesse campo, por exemplo, da psicologia jurídica
+[866.30s -> 868.38s]  infelizmente a UERJ não tem mais
+[868.38s -> 871.58s]  mas a gente tem a PUC, tem outras formações
+[871.58s -> 877.38s]  e aí se a pessoa tiver interesse na parte acadêmica mesmo
+[877.38s -> 880.32s]  fazer um mestrado, fazer um doutorado
+[880.32s -> 886.68s]  e sempre se especializando cada vez mais naquele campo
+[886.68s -> 892.02s]  eu desconfio muito do profissional que atira para todos os lados
+[892.02s -> 895.88s]  que faz um leque assim
+[895.88s -> 898.04s]  aí eu costumo dizer que é profissional pado
+[898.04s -> 899.58s]  que anda, nada e voa
+[899.58s -> 901.50s]  mas não faz nada direito
+[901.50s -> 905.74s]  O pato não faz nada direito, ele não anda direito, ele não nada direito, ele não voa direito.
+[906.38s -> 911.22s]  Então é melhor fazer um recorte específico e se aprofundar nele,
+[911.78s -> 915.76s]  porque aí você se torna um especialista naquele campo.
+[917.06s -> 919.40s]  Então acho que esse é um movimento.
+[920.06s -> 925.70s]  Não esperar que a faculdade entregue o combo para vocês, pronto.
+[925.70s -> 930.18s]  vocês terem uma perspectiva mais artesanal
+[930.18s -> 933.06s]  na formação de vocês, sabe?
+[933.16s -> 937.62s]  Vocês irem buscando e montando aí um quebra-cabeça
+[937.62s -> 941.52s]  que no final vai dar aí um retrato
+[941.52s -> 944.18s]  de que profissional você quer ser.
+[944.60s -> 947.90s]  Lógico que não existe nenhum impedimento
+[947.90s -> 949.76s]  de você fazer coisas em paralelo.
+[949.88s -> 951.96s]  Ah, eu gosto da psicologia jurídica,
+[952.04s -> 953.48s]  mas eu gosto também da clínica.
+[953.70s -> 955.52s]  Sem problema nenhum, né?
+[955.70s -> 964.50s]  Mas essas inserções profissionais que vão requerer que alguém analise seu currículo para te contratar
+[964.50s -> 968.94s]  ou um concurso público, que a psicologia jurídica tem muito concurso público
+[968.94s -> 973.80s]  e são os concursos públicos mais concorridos, porque os salários são os melhores.
+[974.48s -> 980.44s]  Hoje, um concurso público do TJ, você com os benefícios soma em 20 mil de salário.
+[980.44s -> 980.76s]  Nossa.
+[981.76s -> 986.10s]  É, tem um salário base que está ali perto de 10, 11 mil,
+[986.20s -> 987.82s]  mas somando os benefícios.
+[988.50s -> 991.42s]  Então, é um concurso público bastante concorrido.
+[991.98s -> 993.18s]  Mas quem é que vai passar?
+[993.78s -> 996.98s]  Quem está investindo de sempre, né?
+[997.74s -> 1004.92s]  E tendo um conhecimento mais alargado para além do que a faculdade oferta.
+[1004.92s -> 1008.36s]  então acho que essa é uma dica
+[1008.36s -> 1010.44s]  pra mim
+[1010.44s -> 1012.06s]  bem importante
+[1012.06s -> 1014.32s]  porque foi assim que eu me
+[1014.32s -> 1016.28s]  me desenvolvi
+[1016.28s -> 1017.88s]  profissionalmente
+[1017.88s -> 1020.26s]  e é assim que eu impulsiono meus alunos
+[1020.26s -> 1022.28s]  que eu sei que já tem
+[1022.28s -> 1024.08s]  tem alunos que entram
+[1024.08s -> 1026.20s]  na faculdade por conta das séries
+[1026.20s -> 1028.22s]  já querendo psicologia jurídica
+[1028.22s -> 1029.76s]  eu fui uma dessas alunas
+[1029.76s -> 1031.42s]  eu não sei se você lembra de mim
+[1031.42s -> 1032.86s]  mas a minha mãe foi sua aluna
+[1032.86s -> 1034.62s]  e eu tava na dúvida
+[1034.62s -> 1036.14s]  Patrícia Lanes
+[1036.14s -> 1038.34s]  Patrícia
+[1038.34s -> 1040.78s]  eu tava na dúvida
+[1040.78s -> 1042.72s]  se eu fazia direito ou psicologia
+[1042.72s -> 1044.02s]  porque eu queria essa área
+[1044.02s -> 1046.72s]  aí ela falou, filha, conversa com ela
+[1046.72s -> 1048.36s]  que ela vai te dar uma abertura maior
+[1048.36s -> 1050.28s]  porque filha nunca ouve a mãe, né
+[1050.28s -> 1052.92s]  ela falou assim, vou pegar uma profissional
+[1052.92s -> 1054.32s]  que você vai ouvir
+[1054.32s -> 1056.70s]  aí eu tô agora na psicologia, mais ou menos
+[1056.70s -> 1057.62s]  por sua causa
+[1057.62s -> 1060.58s]  porque é algum profissional que eu sei
+[1060.58s -> 1061.72s]  que deu muito certo
+[1061.72s -> 1063.54s]  e que gosta do que faz.
+[1063.68s -> 1067.10s]  Então eu estou pesquisando não só para o trabalho,
+[1067.30s -> 1070.30s]  mas também por mim própria, porque eu quero também.
+[1071.16s -> 1071.98s]  Ah, seria isso.
+[1072.04s -> 1075.32s]  Não tem nada a ver com a entrevista, só um parênteses aqui.
+[1075.44s -> 1078.08s]  Seria bacana você fazer alguns cursos meus.
+[1078.20s -> 1079.62s]  Sim, eu estou na busca.
+[1079.62s -> 1084.82s]  Eu vou te mandar, que eu fiz um combo para 2026.
+[1085.42s -> 1086.90s]  São cinco cursos.
+[1087.18s -> 1090.88s]  Dois no primeiro semestre, dois no segundo e um nas férias.
+[1090.88s -> 1094.00s]  eu vou te mandar as informações depois
+[1094.00s -> 1095.90s]  porque eu acho que isso dá uma
+[1095.90s -> 1097.86s]  dá uma base boa
+[1097.86s -> 1100.14s]  pra começar um processo
+[1100.14s -> 1102.34s]  sabe? os alunos me pediram
+[1102.34s -> 1104.36s]  ah, não quero ficar fazendo isolado
+[1104.36s -> 1105.52s]  faz logo um combo
+[1105.52s -> 1107.98s]  e aí eu fiz esse combo
+[1107.98s -> 1109.24s]  e eu vou te mandar
+[1109.24s -> 1111.40s]  mas que bom, que bom que é você
+[1111.40s -> 1113.66s]  eu lembro da gente ter conversado
+[1113.66s -> 1115.36s]  eu não sei se foi presencialmente
+[1115.36s -> 1116.78s]  ou se foi pelo telefone
+[1116.78s -> 1117.96s]  foi pelo telefone
+[1117.96s -> 1126.62s]  Pelo telefone, eu lembro da tua mãe falando, a minha filha está confusa, você pode conversar, que bacana.
+[1126.94s -> 1133.56s]  E é isso, é diferente, uma disciplina de psicologia jurídica dada pelo direito, o objetivo é muito diferente
+[1133.56s -> 1141.92s]  de uma disciplina de psicologia jurídica ofertada por um psicólogo que atue nesse campo.
+[1141.92s -> 1150.32s]  O direito vai falar muito de um uso da psicologia para algumas definições jurídicas.
+[1150.96s -> 1154.96s]  E a gente vai falar de um lugar, inclusive, crítico ao direito.
+[1155.96s -> 1162.38s]  E muitas vezes dizendo que o que eles estão pedindo de nós a gente não pode oferecer.
+[1162.88s -> 1166.62s]  Porque, inclusive, fere o nosso código de ética.
+[1167.00s -> 1169.96s]  Algumas demandas do campo da justiça.
+[1169.96s -> 1174.44s]  Ah, mas eu acho que você vai super se encontrar na área de psicologia jurídica.
+[1174.44s -> 1175.60s]  Ah, eu espero muito.
+[1176.10s -> 1176.50s]  Eu...
+[1176.50s -> 1180.92s]  E essas duas áreas aí, essas duas vertentes.
+[1181.68s -> 1186.36s]  Eu queria saber também quais são as principais barreiras que o psicólogo
+[1186.36s -> 1191.34s]  que atua na busca da saúde mental desses prisioneiros
+[1191.34s -> 1193.42s]  enfrenta dentro do sistema prisional.
+[1194.46s -> 1195.96s]  Olha, são tantas, mas...
+[1195.96s -> 1202.82s]  Mas primeiro, as próprias condições dos presídios, se a gente for pensar no Rio de Janeiro.
+[1203.88s -> 1211.76s]  A gente tem uma superlotação, a gente tem unidades prisionais com triplo da capacidade,
+[1211.90s -> 1214.48s]  porque a gente tem muitos presos provisórios.
+[1215.68s -> 1217.04s]  Então essa é uma questão.
+[1217.94s -> 1223.80s]  A outra questão é o pequeno número de psicólogos para atender o quantitativo de presos.
+[1223.80s -> 1234.80s]  o último concurso para psicólogo do sistema prisional foi em 86 ou 87, nunca mais teve concurso.
+[1235.80s -> 1243.90s]  O que aconteceu depois disso foram contratações temporárias, então os concursados já estão todos capegas,
+[1243.90s -> 1255.90s]  Então hoje, eu não vou saber te dizer exato, mas eu acho que a gente tem 30 psicólogos para o sistema todo, que tem mais de 70 mil presos.
+[1256.84s -> 1257.58s]  Meu Deus.
+[1258.42s -> 1261.90s]  Ligado à Secretaria de Administração Penitenciária.
+[1262.96s -> 1272.92s]  O que a gente tem hoje, que foi um avanço, é que existe uma política, que é a Política Nacional de Atenção às Pessoas Privadas de Liberdade.
+[1272.92s -> 1285.42s]  Política Nacional de Saúde. Então é uma política nacional de 2014, onde criou equipes ligadas às secretarias municipais e secretarias estaduais de saúde,
+[1285.88s -> 1294.72s]  não são funcionários da CEAP, da Secretaria de Administração Penitenciária, mas que atendem dentro da unidade prisional.
+[1294.72s -> 1298.24s]  então se criou um espaço
+[1298.24s -> 1299.78s]  para essas equipes que são
+[1299.78s -> 1301.92s]  contratadas pelo município e pelo
+[1301.92s -> 1304.26s]  estado, Secretaria Municipal de Saúde
+[1304.26s -> 1305.74s]  Secretaria Estadual de Saúde
+[1305.74s -> 1307.72s]  para atender os presos
+[1307.72s -> 1310.70s]  isso deu uma melhoria significativa
+[1310.70s -> 1312.10s]  porque são equipes
+[1312.10s -> 1314.76s]  completas, com médicos, fisioterapeutas
+[1314.76s -> 1316.34s]  dentistas
+[1316.34s -> 1317.82s]  psicólogos, enfim
+[1317.82s -> 1320.18s]  e aí isso fez
+[1320.18s -> 1321.92s]  com que a gente conseguisse
+[1321.92s -> 1324.50s]  garantir essa atenção
+[1324.50s -> 1327.68s]  principalmente para os casos mais graves.
+[1329.42s -> 1337.28s]  Então, o entrave do quantitativo de presos em relação ao quantitativo de profissionais é o primeiro.
+[1337.86s -> 1346.96s]  O segundo é a própria dinâmica prisional, que o objetivo principal dela é a segurança e não a saúde.
+[1346.96s -> 1350.90s]  Então a gente briga constantemente
+[1350.90s -> 1354.56s]  Para conseguir tirar um preso de uma cela
+[1354.56s -> 1363.22s]  Porque se o policial penal disser que as galerias, as celas estão inseguras
+[1363.22s -> 1366.96s]  Que ele não tem pessoal para ir lá tirar, ele não tira
+[1366.96s -> 1371.92s]  Então a saúde não é uma prioridade dentro do sistema prisional
+[1371.92s -> 1375.60s]  e aí a lógica
+[1375.60s -> 1377.30s]  dos policiais penais
+[1377.30s -> 1379.60s]  que é quem faz esse trânsito
+[1379.60s -> 1381.26s]  que vai lá na cela
+[1381.26s -> 1383.02s]  retira o preso
+[1383.02s -> 1385.24s]  leva até a equipe de saúde
+[1385.24s -> 1387.76s]  é muito diferente da nossa
+[1387.76s -> 1389.26s]  então eu sempre falei
+[1389.26s -> 1391.42s]  que um dos nossos
+[1391.42s -> 1393.12s]  trabalhos dentro do sistema
+[1393.12s -> 1395.46s]  é trabalhar com os policiais penais
+[1395.46s -> 1397.20s]  no sentido
+[1397.20s -> 1400.12s]  deles entenderem a importância
+[1400.12s -> 1403.88s]  de garantir os direitos dessas pessoas,
+[1404.40s -> 1408.40s]  mas também incluí-los como trabalhadores que têm direitos,
+[1408.54s -> 1410.52s]  que eles ficam muito ressentidos,
+[1410.96s -> 1414.68s]  que a gente está passando a mão na cabeça do bandido
+[1414.68s -> 1417.96s]  e ninguém quer saber se eles estão sofrendo.
+[1418.68s -> 1421.70s]  Então, fazer uma política da boa vizinhança,
+[1421.70s -> 1423.84s]  trazer os policiais penais para perto,
+[1423.94s -> 1426.12s]  até porque eles de fato precisam,
+[1426.20s -> 1430.08s]  eles trabalham numa panela de pressão prestes a explodir.
+[1430.12s -> 1433.56s]  que também são muito poucos
+[1433.56s -> 1435.24s]  para dar conta de cenário
+[1435.24s -> 1437.38s]  de prisão com 4 mil presos
+[1437.38s -> 1438.74s]  então
+[1438.74s -> 1440.60s]  a gente tem
+[1440.60s -> 1443.08s]  essa outra questão
+[1443.08s -> 1445.42s]  e ainda tem uma terceira
+[1445.42s -> 1446.96s]  que é a própria formação
+[1446.96s -> 1449.62s]  desses psicólogos que trabalham dentro do presídio
+[1449.62s -> 1451.56s]  quando eu
+[1451.56s -> 1453.48s]  supervisionava
+[1453.48s -> 1455.50s]  alguns psicólogos que atuavam
+[1455.50s -> 1455.84s]  lá
+[1455.84s -> 1459.44s]  eu percebia muito claramente que muitos tinham
+[1459.44s -> 1460.52s]  medo dos produtos.
+[1461.52s -> 1463.50s]  A ponto de dizer que nunca
+[1463.50s -> 1465.68s]  tinham ido ao pátio. Se quer,
+[1466.02s -> 1467.48s]  se não ia no pátio, imagina
+[1467.48s -> 1469.64s]  na cela, imagina na galeria.
+[1470.20s -> 1470.76s]  Jamais.
+[1471.90s -> 1473.52s]  Então, e eu
+[1473.52s -> 1475.44s]  questionava, como é que vocês
+[1475.44s -> 1477.30s]  podem entender o sofrimento
+[1477.30s -> 1479.80s]  psíquico da pessoa que está presa
+[1479.80s -> 1481.46s]  se você não conhece como
+[1481.46s -> 1483.44s]  essas pessoas vivem ali dentro?
+[1483.98s -> 1485.46s]  Ou vocês só conhecem
+[1485.46s -> 1487.20s]  a partir do que eles falam?
+[1487.26s -> 1489.40s]  Vocês estão dentro da unidade. Vai lá,
+[1489.44s -> 1497.24s]  vai na galeria, vai na cela, vai sentir o cheiro, vai sentir o calor, vai entender de uma maneira sinestésica
+[1497.24s -> 1505.70s]  o que é isso que eles estão falando, porque isso vai te ajudar a entender esse sofrimento.
+[1507.38s -> 1513.00s]  Enfim, então até pela falta de formação específica na área,
+[1513.00s -> 1516.92s]  acaba que essas pessoas
+[1516.92s -> 1521.28s]  trazeram o modelo da clínica
+[1521.28s -> 1522.52s]  para dentro da prisão
+[1522.52s -> 1524.92s]  ou seja, eu fico aqui na minha sala
+[1524.92s -> 1526.86s]  alguém vai lá, retira o preso
+[1526.86s -> 1529.00s]  traz até mim, eu atendo
+[1529.00s -> 1531.16s]  ele volta como se eu não
+[1531.16s -> 1533.40s]  estivesse dentro de um presídio
+[1533.40s -> 1536.86s]  então esse é um outro
+[1536.86s -> 1537.72s]  complicador
+[1537.72s -> 1540.86s]  e algumas demandas da própria
+[1540.86s -> 1542.16s]  justiça, por exemplo
+[1542.16s -> 1556.46s]  Tem toda uma discussão sobre o exame criminológico, a real necessidade de exames criminológicos para determinadas pessoas que estão próximas a ter um benefício para sair.
+[1556.46s -> 1564.46s]  Tem uma discussão de que se é o direito da pessoa sair, ela não deveria precisar ser avaliada,
+[1565.18s -> 1575.88s]  exceto se houver algo que deponha contra ela, alguma coisa ali no presídio que tivesse apontado para uma não possibilidade.
+[1576.08s -> 1583.46s]  Agora, você ficar fazendo exames para aferir sanidade mental, para aferir periculosidade,
+[1583.46s -> 1588.88s]  que é algo que é impossível de ser aferido, porque isso vai depender do contexto.
+[1589.72s -> 1599.16s]  Para que a pessoa possa ter um direito que é dela adquirido, porque está previsto na lei de execução penal, é bem complexo.
+[1599.24s -> 1609.52s]  Inclusive o Conselho Federal de Psicologia, a vez por hora, intervém no sentido de impedir que os psicólogos participem de algumas ações
+[1609.52s -> 1617.78s]  que eles são solicitados, como participar da comissão técnica de classificação,
+[1617.78s -> 1623.04s]  que era algo que acontecia muito quando um preso tinha um comportamento indevido.
+[1623.58s -> 1627.66s]  Aí chamava o psicólogo, chamava o assistente social, chamava o chefe de segurança
+[1627.66s -> 1633.04s]  e os policiais penais para decidir qual a sanção que aquele preso ia receber.
+[1633.82s -> 1637.00s]  O psicólogo não está ali para isso, para aplicar a sanção.
+[1637.00s -> 1638.06s]  enfim
+[1638.06s -> 1640.62s]  então tem uma série de questões
+[1640.62s -> 1642.86s]  que o próprio sistema
+[1642.86s -> 1644.58s]  não entende qual é
+[1644.58s -> 1646.50s]  o real objetivo
+[1646.50s -> 1647.78s]  da psicologia
+[1647.78s -> 1651.08s]  entendi, e se você acredita
+[1651.08s -> 1652.44s]  que o sistema prisional
+[1652.44s -> 1654.60s]  ele cumpre o papel de
+[1654.60s -> 1657.00s]  ressocializar
+[1657.96s -> 1658.88s]  essas pessoas
+[1658.88s -> 1660.74s]  nunca, nunca
+[1660.74s -> 1663.00s]  ele já nasce
+[1663.00s -> 1665.62s]  ele não nasce com essa função
+[1665.62s -> 1671.60s]  O sistema prisional, quando a gente vai ler sobre a história dos presídios no Brasil,
+[1672.16s -> 1678.14s]  a gente percebe claramente que nunca houve o objetivo de ressocializar e sim retirar da sociedade
+[1678.14s -> 1684.36s]  aquelas pessoas que por algum motivo traziam prejuízo à sociedade.
+[1685.54s -> 1692.92s]  Então eram depósitos, depósitos humanos, e eles estariam ali para pagar uma pena,
+[1693.92s -> 1695.46s]  basicamente isso.
+[1695.62s -> 1703.22s]  Depois começa toda essa discussão que essas unidades teriam esse caráter de ressocializar,
+[1703.40s -> 1708.48s]  de preparar esse sujeito para retornar para a sociedade de uma maneira melhorada.
+[1709.32s -> 1711.86s]  Mas aí eu te pergunto, como isso é possível?
+[1712.04s -> 1716.36s]  Isso não é possível dentro das condições que temos hoje no presídio.
+[1716.94s -> 1719.48s]  Uma cela que cabe 20 tem 60.
+[1720.94s -> 1723.62s]  Não tem lugar para todo mundo deitar.
+[1723.62s -> 1727.24s]  Eu não estou falando de cama, eu estou falando de espaço no chão.
+[1727.76s -> 1733.58s]  E eles fazem revezamento, ficam duas horas em pé, duas horas deitado, para que todos possam deitar.
+[1734.24s -> 1737.24s]  Não tem condições mínimas de higienização.
+[1738.06s -> 1748.56s]  Celas quentes, úmidas, comida estragada, sem acesso a nenhum tipo de atividade pedagógica ou profissional.
+[1748.56s -> 1752.04s]  apesar de ter a escola dentro do sistema
+[1752.04s -> 1754.64s]  porque é da Secretaria Estadual de Educação
+[1754.64s -> 1757.32s]  nem todos conseguem acessar
+[1757.32s -> 1762.32s]  então é um ambiente que promove muito mais raiva
+[1762.32s -> 1764.78s]  muito mais inconformismo
+[1764.78s -> 1767.40s]  do que promova reflexão
+[1767.40s -> 1773.32s]  então eles saem na maioria das vezes com mais revolta
+[1773.32s -> 1776.22s]  pelas condições que foram tratados
+[1776.22s -> 1784.16s]  do que propriamente tiveram a oportunidade de refletir sobre o que querem na vida.
+[1784.16s -> 1790.84s]  É óbvio que aqueles que têm o apoio familiar, mas aí não é o presídio que promove,
+[1790.96s -> 1792.60s]  é a família que promove.
+[1793.34s -> 1798.00s]  Coisas que o presídio faça, que possa contribuir para a ressocialização,
+[1798.64s -> 1803.16s]  são muito pontuais em algumas unidades prisionais
+[1803.16s -> 1809.06s]  prisionais que estão com uma outra característica, não está superlotada,
+[1809.18s -> 1811.86s]  que tem alguma oficina, mas é uma raridade.
+[1813.48s -> 1819.48s]  Então, a gente já sabe, a literatura já aponta para a falência desse modelo
+[1819.48s -> 1821.46s]  de sistema prisional.
+[1822.08s -> 1827.46s]  Então, a gente vem dependendo as penas alternativas, as medidas alternativas,
+[1827.94s -> 1831.48s]  outras formas de responsabilizar essas pessoas.
+[1831.48s -> 1835.36s]  óbvio que não aquelas que praticaram crimes hediondos, né?
+[1835.54s -> 1838.56s]  Que aí, de fato, fica mais complicado.
+[1838.68s -> 1843.04s]  Mas se a gente aplica medidas alternativas a essas pessoas,
+[1843.22s -> 1846.86s]  principalmente aquelas que estão envolvidas ali com o tráfico,
+[1846.98s -> 1850.20s]  com crimes de menor potencial ofensivo,
+[1850.96s -> 1854.74s]  os presos provisórios que ainda não foram sentenciados,
+[1855.20s -> 1859.34s]  a gente diminui o quantitativo dentro da unidade prisional
+[1859.34s -> 1867.52s]  e consegue oferecer um pouco mais de qualidade de vida dentro do cumprimento da pena.
+[1868.08s -> 1873.72s]  Porque hoje, do jeito que está, são depósitos de homens e mulheres
+[1873.72s -> 1880.98s]  e que saem dali sem ter nada agregado à sua história, à sua vida.
+[1880.98s -> 1886.24s]  E quais seriam essas medidas que os psicólogos conseguem fazer
+[1886.24s -> 1889.04s]  nesse sentido de
+[1889.04s -> 1890.14s]  ressocializar
+[1890.14s -> 1893.54s]  essas pessoas
+[1893.54s -> 1895.52s]  eu diria pra você
+[1895.52s -> 1896.94s]  que hoje não se faz nada
+[1896.94s -> 1899.16s]  eu diria com muita segurança
+[1899.16s -> 1901.44s]  que hoje não se faz nada nessa direção
+[1901.44s -> 1903.16s]  até por conta
+[1903.16s -> 1905.50s]  do número ínfimo de psicólogos
+[1905.50s -> 1906.54s]  dentro do sistema
+[1906.54s -> 1908.40s]  então o máximo que se faz
+[1908.40s -> 1910.22s]  é ouvir e escutar
+[1910.22s -> 1912.86s]  algum preso que esteja com alguma
+[1912.86s -> 1915.18s]  preso não
+[1915.18s -> 1918.64s]  A gente não usa o termo preso, usa pessoas privadas de liberdade.
+[1919.08s -> 1926.28s]  A pessoa privada de liberdade que esteja com um problema mais grave, com uma tentativa de suicídio, enfim.
+[1927.00s -> 1930.66s]  Porque também a prisão não é espaço para fazer terapia.
+[1930.98s -> 1937.18s]  Então, se houver algum problema mais grave, a gente precisa encaminhar para a rede pública,
+[1937.94s -> 1942.18s]  para que o atendimento se dê extra-multi.
+[1942.18s -> 1964.00s]  Mas houve tempo que a gente trabalhava de maneira mais em grupo, fazendo grupos de pessoas que tinham problema declarado com dependência química ou com uso de tabaco ou grupos temáticos.
+[1964.00s -> 1991.08s]  Eu já trabalhei com multiplicadores em cada cela, então eu pegava dois de cada cela e fazia um trabalho de identificação de problemas psíquicos e mentais, porque eles estando na cela, eles conseguiam identificar e era uma forma de eu chegar na cela sem precisar estar junto com todos eles.
+[1991.08s -> 2005.48s]  Então, a gente foi criando algumas estratégias para atingir o maior número de pessoas sem que nós tivéssemos condição de estar com essas pessoas, porque é humanamente impossível.
+[2005.48s -> 2010.84s]  Então, as estratégias, vamos dizer assim, ideais
+[2010.84s -> 2015.54s]  Seria, de fato, um trabalho em grupo, coletivo, enfim
+[2015.54s -> 2019.32s]  E quando identificado uma questão mais específica
+[2019.32s -> 2021.44s]  Essa escuta individualizada
+[2021.44s -> 2028.30s]  Mas hoje, sinceramente falando, dá uma tristeza
+[2028.30s -> 2033.18s]  Porque eu costumo dizer que quando a gente está com uma pessoa privada de liberdade
+[2033.18s -> 2034.08s]  e
+[2034.08s -> 2036.60s]  e trabou
+[2036.60s -> 2039.30s]  de qualquer profissional
+[2039.30s -> 2040.82s]  que esteja trabalhando ali
+[2040.82s -> 2043.40s]  deu só uma travadinha aqui?
+[2044.00s -> 2044.56s]  ah, voltou
+[2044.56s -> 2047.38s]  então, eu digo
+[2047.38s -> 2049.42s]  que quando a gente consegue acessar
+[2049.42s -> 2051.46s]  essa pessoa privada de liberdade
+[2051.46s -> 2052.96s]  com o olhar humanizado
+[2052.96s -> 2054.58s]  que só a psicologia tem
+[2054.58s -> 2057.60s]  nenhum outro profissional que trabalha ali tem
+[2057.60s -> 2060.10s]  e a gente consegue
+[2060.10s -> 2061.46s]  de fato acessar
+[2061.46s -> 2064.84s]  pedir para que ele olhe para a gente nos olhos, porque eles não fazem isso,
+[2064.92s -> 2067.38s]  eles chegam com a mão para trás, com a cabeça baixa.
+[2068.24s -> 2072.62s]  A gente consiga que o policial penal fique do lado de fora da porta
+[2072.62s -> 2076.48s]  e a gente consegue dar uma atenção para aquela pessoa.
+[2076.98s -> 2081.92s]  É impressionante o bem que a gente faz a essa pessoa.
+[2082.12s -> 2085.44s]  A gente traz de volta a humanidade.
+[2085.44s -> 2090.44s]  Elas começam a se ver novamente como sujeitos, como indivíduos,
+[2090.44s -> 2094.04s]  onde a história dele importa, não só o crime.
+[2094.82s -> 2097.92s]  Você chama pelo nome, você não chama pelo número.
+[2098.64s -> 2102.76s]  Você humaniza, você traz de volta essa humanização
+[2102.76s -> 2107.06s]  que o sistema despersonaliza, vira todo mundo preso.
+[2107.62s -> 2110.42s]  Vira todo mundo preso, vira todo mundo número,
+[2110.62s -> 2115.96s]  vira todo mundo um artigo, que é o artigo que ele cometeu.
+[2115.96s -> 2119.28s]  E a gente faz esse movimento de resgate,
+[2119.28s -> 2121.36s]  de resgate desse sujeito
+[2121.36s -> 2123.76s]  então é muito bonito de ver
+[2123.76s -> 2125.68s]  como eles
+[2125.68s -> 2128.08s]  valorizam esse momento
+[2128.08s -> 2130.16s]  e isso causa uma angústia
+[2130.16s -> 2131.72s]  na gente, porque a gente sabe que tem
+[2131.72s -> 2134.06s]  3 mil e poucos outros lá
+[2134.06s -> 2135.98s]  que poderiam estar
+[2135.98s -> 2137.78s]  de alguma forma
+[2137.78s -> 2139.98s]  participando de algo semelhante
+[2139.98s -> 2141.86s]  e a gente não consegue dar conta
+[2141.86s -> 2143.92s]  então esse
+[2143.92s -> 2145.44s]  é o maior entrave
+[2145.44s -> 2147.70s]  a gente não conseguir dar conta
+[2147.70s -> 2150.66s]  mesmo sabendo que o espaço
+[2150.66s -> 2153.24s]  prisional não é espaço de terapia
+[2153.24s -> 2156.04s]  mas é um espaço de escuta qualificada
+[2156.04s -> 2158.74s]  então a gente acaba trabalhando também
+[2158.74s -> 2162.68s]  nos projetos que a unidade prisional
+[2162.68s -> 2165.40s]  tem em relação a eles
+[2165.40s -> 2168.52s]  trazendo elementos da psicologia
+[2168.52s -> 2170.54s]  para dentro desses projetos
+[2170.54s -> 2173.70s]  para que a gente consiga atingir o maior número de pessoas
+[2173.70s -> 2179.78s]  E você acha que poderia ser feita alguma política pública
+[2179.78s -> 2182.64s]  para fortalecer a atuação do psicólogo?
+[2183.28s -> 2184.42s]  Para ajudar?
+[2184.78s -> 2186.30s]  Eu acho que já tem.
+[2186.50s -> 2191.02s]  Eu acho que essa política pública de atenção integral
+[2191.02s -> 2194.06s]  a pessoas privadas de liberdade, que é de 2014,
+[2195.08s -> 2196.66s]  que a gente chama PNASP,
+[2196.98s -> 2198.26s]  o nome da política é PNASP,
+[2198.36s -> 2199.64s]  depois você dá uma olhadinha.
+[2200.28s -> 2202.64s]  Ela é uma política muito importante.
+[2202.64s -> 2207.10s]  ela é do Ministério da Saúde, ela não é específica da psicologia,
+[2207.60s -> 2210.98s]  mas ela tem psicólogos por dentro da política,
+[2211.78s -> 2216.34s]  inclusive falando sobre a importância da saúde mental,
+[2216.50s -> 2221.44s]  porque a gente tem tido muitos casos, inclusive de suicídio dentro dos presídios,
+[2221.60s -> 2226.14s]  apesar de não anunciado, eu como trabalho com autópsia psicológica,
+[2226.24s -> 2229.96s]  já fiz algumas autópsias de pessoas que estavam presas.
+[2229.96s -> 2231.94s]  então assim, são
+[2231.94s -> 2236.34s]  acho que fortalecer a PNASP
+[2236.34s -> 2239.68s]  brigar aí
+[2239.68s -> 2242.12s]  o próprio Conselho Federal de Psicologia
+[2242.12s -> 2243.86s]  podia fazer um advocacy
+[2243.86s -> 2245.74s]  para mais concursos
+[2245.74s -> 2248.22s]  para psicólogos nesse contexto
+[2248.22s -> 2249.44s]  enfim
+[2249.44s -> 2252.42s]  eu acho que seria o caminho
+[2252.42s -> 2254.68s]  possível, sempre sabendo
+[2254.68s -> 2256.70s]  que a gente nunca vai ter
+[2256.70s -> 2258.44s]  um número tão grande
+[2258.44s -> 2264.62s]  que dê conta de atender a esse público preso,
+[2264.62s -> 2270.28s]  que só aumenta por conta dessa política também de encarceramento.
+[2272.42s -> 2277.24s]  E eu acho que um outro papel da gente, que é o que eu faço muito hoje,
+[2277.84s -> 2281.18s]  mais do que está dentro do presídio, é fazer o advocacy,
+[2281.18s -> 2288.50s]  que é essa linha de estar discutindo o que acontece dentro do sistema,
+[2289.02s -> 2296.18s]  levando isso para que a sociedade pense, reflita e também compreenda que esses sujeitos
+[2296.76s -> 2302.64s]  eles são passíveis de direitos, eles estão ali cumprindo pelo que fizeram,
+[2303.02s -> 2309.68s]  e a pena que eles receberam é a privação de liberdade, não a privação dos outros direitos.
+[2309.68s -> 2317.30s]  sensibilizando a sociedade para esse público, sensibilizando os estudantes de psicologia
+[2317.30s -> 2322.78s]  e os profissionais dizendo, olha, aquelas pessoas ali também precisam de cuidado
+[2322.78s -> 2327.48s]  a saúde mental, não são só as vítimas, que geralmente a gente tem mais empatia
+[2327.48s -> 2334.80s]  pelas vítimas, né? Então, eu acho que a gente tem também um papel de falar
+[2334.80s -> 2342.20s]  sobre a unidade, sobre o que acontece nesse cenário, mesmo que nós não estejamos lá.
+[2342.20s -> 2352.20s]  A partir do conhecimento que temos de lá, vocalizar essas pessoas que estão lá em relação aos seus direitos.
+[2353.24s -> 2358.20s]  Então, acho que esse é um papel muito importante a partir da nossa produção acadêmica,
+[2358.20s -> 2365.04s]  a partir da nossa formação de recursos humanos mais sensíveis também para a causa.
+[2365.24s -> 2369.56s]  Sim, a população sabe muito pouco do que realmente acontece no sistema prisional.
+[2369.98s -> 2370.38s]  Sim, sim.
+[2371.82s -> 2375.32s]  A gente está chegando ao fim, aí eu queria perguntar também
+[2375.32s -> 2378.70s]  quais são os principais cuidados éticos que vocês precisam ter?
+[2380.60s -> 2381.78s]  Sim, são muitos, né?
+[2382.02s -> 2385.68s]  São todos aqueles próprios da psicologia, né?
+[2385.68s -> 2388.84s]  Enfim, o nosso código de ética é a nossa baliza.
+[2389.74s -> 2397.12s]  E aí um cuidado importante é nós não sucumbirmos às demandas do jurídico, da justiça.
+[2397.76s -> 2404.42s]  Porque eles muitas vezes demandam da gente coisas que a gente não pode ofertar.
+[2404.86s -> 2411.36s]  Por exemplo, colocar como uma medida ou uma pena o atendimento psicológico.
+[2411.36s -> 2416.52s]  O atendimento psicológico não pode ser judicializado, não pode ser obrigatório.
+[2416.52s -> 2424.30s]  Ou pedir alguma informação que seja sigilosa dessa intervenção com a psicologia.
+[2424.82s -> 2431.40s]  Por estarmos num espaço onde o sigilo de justiça está posto,
+[2431.80s -> 2439.02s]  então a gente tem que ter muito cuidado com o que a gente fala fora daquele cenário,
+[2439.02s -> 2446.30s]  de não ficar revelando situações, cuidado com o que a gente anota,
+[2446.42s -> 2450.58s]  com os nomes das pessoas que estão privadas de liberdade,
+[2451.12s -> 2455.28s]  os cuidados com as facções, que a gente acaba tendo que aprender
+[2455.28s -> 2461.06s]  como se portar em cada um dos presídios, porque os presídios são faccionados
+[2461.06s -> 2465.16s]  aqui no Rio de Janeiro, aqui a gente não tem nenhum presídio hoje
+[2465.16s -> 2467.98s]  que tenha mais de uma facção dentro dele.
+[2468.16s -> 2470.80s]  Cada presídio é de uma facção.
+[2471.38s -> 2475.04s]  Isso facilita porque não tem muito conflito interno entre eles,
+[2475.74s -> 2479.22s]  mas a gente precisa saber quais são as regras.
+[2480.22s -> 2487.28s]  Infelizmente, eles ditam muito do funcionamento prisional.
+[2487.88s -> 2489.98s]  Então, alguns códigos de segurança,
+[2490.42s -> 2493.44s]  essa parceria com os policiais penais é importante,
+[2493.44s -> 2497.46s]  por mais que às vezes a gente queira matá-los, queira pular no pescoço deles,
+[2497.92s -> 2506.40s]  mas eles também estão fazendo o papel deles, eles acabam sendo responsáveis também pela nossa segurança dentro do presídio.
+[2506.92s -> 2511.70s]  Então, por mais que eu sempre fui muito rebelde, porque eu queria ir na cela, na hora que eu queria,
+[2511.90s -> 2514.06s]  e sair entrando, eles vinham atrás de mim.
+[2515.74s -> 2523.02s]  Com o tempo, depois com mais maturidade, eu fui entendendo que eu trazia um problema para eles
+[2523.02s -> 2528.42s]  quando eu começava a circular de uma maneira mais aleatória dentro da unidade.
+[2528.80s -> 2533.90s]  Então, entender as regras do funcionamento prisional
+[2533.90s -> 2538.06s]  e entender as regras também das pessoas que estão privadas de liberdade.
+[2538.86s -> 2543.06s]  Assuntos que eles não queiram tocar, precisamos respeitar.
+[2544.70s -> 2549.72s]  Esse cuidado que a gente tem também fora dali,
+[2549.72s -> 2553.02s]  que se amplificam por estar
+[2553.02s -> 2554.74s]  intragrades, né?
+[2554.86s -> 2558.24s]  Então, tudo é meio tenso,
+[2558.88s -> 2561.18s]  mas ao mesmo tempo é muito seguro.
+[2561.34s -> 2562.60s]  É interessante isso.
+[2562.88s -> 2564.90s]  A gente não fica em momento nenhum
+[2564.90s -> 2568.46s]  preocupado com a questão da segurança, né?
+[2568.46s -> 2570.16s]  As pessoas aqui de fora que ficam
+[2570.16s -> 2572.16s]  preocupadas com a gente lá dentro, né?
+[2572.80s -> 2574.66s]  Mas não, é um ambiente seguro,
+[2574.82s -> 2577.50s]  é um ambiente, lógico, hostil
+[2577.50s -> 2580.54s]  por tudo que a gente sabe que tem ali.
+[2581.12s -> 2584.32s]  É quente, geralmente, é lá no complexo de Bangu,
+[2584.44s -> 2587.98s]  é muito calor, o acesso à água potável é muito dificultado,
+[2588.06s -> 2589.40s]  a alimentação não é boa.
+[2591.14s -> 2596.66s]  Mas quando a gente está ali no trato com a pessoa privada de liberdade,
+[2596.66s -> 2598.00s]  é tudo muito tranquilo,
+[2598.46s -> 2601.52s]  a gente não se sente insegura na nossa atuação.
+[2602.08s -> 2603.56s]  Eu acho que isso é interessante.
+[2603.94s -> 2607.06s]  E uma das coisas que eu sempre fiz também nessa linha ética
+[2607.06s -> 2611.76s]  é quando eu estava elaborando algum relatório da pessoa privada de liberdade,
+[2612.16s -> 2617.04s]  eu fazia uma síntese para ele no final do que eu ia colocar no relatório,
+[2617.58s -> 2620.26s]  para evitar uma ansiedade persecutória,
+[2620.36s -> 2624.32s]  dele achar que ele não foi, não recebeu o alvará,
+[2624.46s -> 2626.40s]  não recebeu a progressão de medida,
+[2626.54s -> 2633.28s]  porque a psicóloga colocou ali algo que depusesse contra ele.
+[2633.28s -> 2639.80s]  Então eu sempre explico um pouco o objetivo de estar com ele, de estar fazendo aquelas perguntas,
+[2639.92s -> 2643.18s]  fazendo essa mediação respeitosa.
+[2643.94s -> 2645.96s]  Isso é uma questão importante.
+[2646.44s -> 2652.14s]  E por último, qual mensagem você deixaria para os estudantes ou profissionais da psicologia
+[2652.14s -> 2655.92s]  que desejam atuar de alguma forma nesse sistema?
+[2655.92s -> 2660.70s]  Sejam perseverantes
+[2660.70s -> 2663.02s]  Porque os desafios são enormes
+[2664.12s -> 2667.88s]  É um campo de atuação
+[2667.88s -> 2669.68s]  Que exige da gente
+[2669.68s -> 2671.02s]  Muitos enfrentamentos
+[2671.66s -> 2674.84s]  Para que a gente consiga garantir
+[2674.84s -> 2676.72s]  Os direitos dessas pessoas
+[2676.72s -> 2678.96s]  Porque a gente está nadando
+[2678.96s -> 2680.08s]  Contra a correnteza
+[2680.08s -> 2682.52s]  A sociedade inteira
+[2682.52s -> 2685.48s]  Quer que aquela unidade se exploda
+[2685.48s -> 2692.86s]  Muitas vezes os próprios profissionais que atuam ali também, que não são do campo psíquico
+[2692.86s -> 2699.90s]  Estão muito pouco preocupados com a saúde, principalmente com a saúde mental daquelas pessoas
+[2699.90s -> 2704.24s]  Que partem do princípio que elas fizeram algo para estar ali
+[2704.24s -> 2708.56s]  E isso é verdade, acho que isso é importante a gente dizer
+[2708.56s -> 2712.60s]  A gente não está aqui romantizando essas pessoas
+[2712.60s -> 2717.54s]  De fato, elas cometeram crimes, de fato, elas precisam ser responsabilizadas.
+[2718.08s -> 2725.52s]  Mas o que a gente vê hoje é um cenário onde o Estado está sendo criminoso contra essas pessoas
+[2725.52s -> 2730.34s]  a partir do momento que não garante direitos que eles não perderam ao ser presos.
+[2730.76s -> 2733.74s]  Então existe um tensionamento, sabe?
+[2733.74s -> 2742.92s]  E nós, enquanto profissionais que trabalhamos dentro da perspectiva dos direitos humanos,
+[2743.50s -> 2747.56s]  a gente não pode silenciar diante de algumas atrocidades.
+[2748.34s -> 2751.74s]  Mas também não podemos chegar com o pé na porta acusando.
+[2752.48s -> 2759.38s]  Então, tem uma questão aí que é de uma certa maturidade profissional,
+[2759.38s -> 2769.36s]  de você conseguir sinalizar esses equívocos de uma maneira que você consiga permanecer naquele espaço,
+[2769.48s -> 2774.74s]  porque se você sai, você contribui menos ainda para a mudança daquele cenário.
+[2775.00s -> 2780.26s]  Então, essa coisa da persistência é porque a gente vai lidar com situações, às vezes, limites,
+[2780.70s -> 2784.52s]  que a sua vontade é largar tudo e sair correndo e fazer uma denúncia.
+[2784.52s -> 2793.48s]  E eu sempre falo, nós que trabalhamos em prol desse público, a gente tem que ser resistente.
+[2793.64s -> 2800.88s]  Porque se todos nós que nos escandalizamos com algumas coisas que acontecem ali não consigamos ficar,
+[2801.48s -> 2804.78s]  só vai ficar quem quer que continue essa situação.
+[2805.68s -> 2808.22s]  Então, de alguma forma, a gente tem que resistir.
+[2808.22s -> 2812.56s]  sempre a gente tem que estar com a nossa terapia em dia
+[2812.56s -> 2815.02s]  com a nossa supervisão em dia
+[2815.02s -> 2821.12s]  para termos espaços de falar sobre esses nossos incômodos
+[2821.12s -> 2824.46s]  de fazermos as nossas avaliações éticas
+[2824.46s -> 2828.04s]  mas é um campo apaixonante
+[2828.04s -> 2832.44s]  eu acho que quem começa nessa área
+[2832.44s -> 2835.30s]  dificilmente consegue sair totalmente
+[2835.30s -> 2837.98s]  às vezes muda um pouco de direção
+[2837.98s -> 2844.42s]  mas essa discussão está sempre presente, porque ela te captura mesmo, né?
+[2844.66s -> 2847.18s]  E aquelas pessoas precisam da psicologia.
+[2847.60s -> 2853.06s]  Eu acho que não existe outro lugar que precise tanto quanto lá.
+[2853.86s -> 2857.16s]  Então, acho que isso é importante.
+[2857.34s -> 2862.96s]  E eu sempre falo que nós da psicologia deveríamos estar abertos para atender
+[2862.96s -> 2866.84s]  a todas as pessoas, independente de quem elas sejam.
+[2867.46s -> 2871.44s]  Cor, comportamento, sexo, qualquer coisa.
+[2871.58s -> 2873.48s]  Isso está lá no nosso código de ética.
+[2874.62s -> 2879.28s]  Mas o que a gente percebe é que as pessoas fazem escolhas,
+[2879.46s -> 2883.32s]  colocam numa peneira e falam, esses eu atendo,
+[2883.40s -> 2885.20s]  esses eu não consigo atender.
+[2886.40s -> 2888.20s]  E isso, para mim, me incomoda.
+[2888.20s -> 2891.34s]  Eu sempre digo que se você não consegue atender,
+[2891.34s -> 2893.42s]  não vá atender, porque senão
+[2893.42s -> 2895.22s]  você não vai fazer um bom trabalho.
+[2895.90s -> 2897.88s]  Mas não se pode naturalizar
+[2897.88s -> 2899.86s]  esse eu não consigo atender.
+[2900.48s -> 2901.72s]  Precisa trabalhar isso
+[2901.72s -> 2903.86s]  em outros espaços, seja terapêuticos
+[2903.86s -> 2904.98s]  ou de supervisão.
+[2905.48s -> 2907.24s]  Porque a psicologia
+[2907.24s -> 2909.34s]  deve atender a todos.
+[2910.68s -> 2911.36s]  Para nós,
+[2911.44s -> 2912.34s]  da psicologia,
+[2912.34s -> 2914.50s]  o sujeito tem que chegar
+[2914.50s -> 2916.56s]  antes do crime, não o inverso.
+[2917.34s -> 2918.60s]  Eu não atendo
+[2918.60s -> 2919.52s]  o pedófilo.
+[2919.52s -> 2923.22s]  Mas você tem que atender o André da Silva
+[2923.22s -> 2924.90s]  Que cometeu pedofilia
+[2924.90s -> 2926.72s]  É diferente a visada
+[2926.72s -> 2929.28s]  Quem atende o pedófilo
+[2929.28s -> 2931.20s]  É o advogado
+[2931.20s -> 2933.56s]  É o juiz que está olhando o crime
+[2933.56s -> 2935.62s]  Você está olhando o sujeito
+[2935.62s -> 2938.02s]  Onde o crime atravessa essa vida
+[2938.02s -> 2940.50s]  E isso faz toda a diferença
+[2940.50s -> 2942.92s]  Então, quando a gente diz
+[2942.92s -> 2944.26s]  Eu não consigo
+[2944.26s -> 2945.86s]  E está tudo bem
+[2945.86s -> 2947.10s]  Não, não está tudo bem
+[2947.10s -> 2953.48s]  Porque a ciência que você abraçou diz que você precisa atender a todos.
+[2953.56s -> 2955.30s]  É uma das primeiras premissas.
+[2955.44s -> 2957.62s]  Não tem diferenciação para nós.
+[2958.52s -> 2964.26s]  Mas óbvio, isso é a psicologia, não o psicólogo e a psicóloga.
+[2964.64s -> 2970.20s]  E aí se o psicólogo ou a psicóloga não consegue, ele precisa trabalhar isso.
+[2970.74s -> 2974.08s]  Ele não pode ver isso de uma maneira naturalizada.
+[2974.26s -> 2976.72s]  Precisa entender por que eu não consigo.
+[2976.72s -> 2978.64s]  o que que isso bate, por quê
+[2978.64s -> 2980.72s]  né, questionar isso
+[2980.72s -> 2982.68s]  fazer essa reflexão sobre isso
+[2982.68s -> 2984.72s]  eu quero te agradecer
+[2984.72s -> 2985.60s]  muito
+[2985.60s -> 2987.94s]  por ajudar a gente
+[2987.94s -> 2990.60s]  a ter um pouquinho mais de noção dessa área
+[2990.60s -> 2992.82s]  que é muito pouco falado na faculdade
+[2992.82s -> 2993.90s]  né, sim
+[2993.90s -> 2996.58s]  e também por fazer um ótimo trabalho
+[2996.58s -> 2998.56s]  porque é muitos poucos
+[2998.56s -> 3000.12s]  psicólogos pelo que você disse
+[3000.12s -> 3002.74s]  que trabalham nessa área, muitos desistem
+[3002.74s -> 3004.30s]  também, a gente
+[3004.30s -> 3006.52s]  teve contato, acho que apenas
+[3006.52s -> 3008.50s]  com dois professores na faculdade
+[3008.50s -> 3010.22s]  que já trabalharam nessa área.
+[3011.06s -> 3012.60s]  Uma já se aposentou
+[3012.60s -> 3014.36s]  dessa área há muitos anos e ela
+[3014.36s -> 3016.24s]  disse que não conseguia ajudar a recomendar
+[3016.24s -> 3018.32s]  ninguém pra gente, porque todos que
+[3018.32s -> 3020.36s]  trabalharam nessa área já tinham desistido,
+[3020.80s -> 3021.68s]  já tinham saído.
+[3022.18s -> 3024.48s]  O outro professor também ficou, acho que, 10 anos
+[3024.48s -> 3026.20s]  trabalhando nisso e ele
+[3026.20s -> 3028.56s]  acabou saindo, não tem
+[3028.56s -> 3030.26s]  mais contato. Então é muito
+[3030.26s -> 3032.64s]  poucos que tem essa resistência
+[3032.64s -> 3034.36s]  de ficar até o final
+[3034.36s -> 3036.10s]  pelo resto
+[3036.10s -> 3038.12s]  do seu percurso ali
+[3038.12s -> 3040.02s]  fazendo a diferença. Então a gente
+[3040.02s -> 3042.14s]  agradece muito por ter dado esse
+[3042.14s -> 3044.38s]  tempo pra gente. Obrigada,
+[3044.46s -> 3046.16s]  foi um prazer. Qualquer dúvida depois
+[3046.16s -> 3048.00s]  pode me perguntar no zap, tá bom?
+[3048.00s -> 3049.04s]  Se você puder me...

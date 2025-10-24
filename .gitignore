@@ -1,0 +1,6 @@
+# Virtual environment
+rafa/
+
+# Python cache
+__pycache__/
+*.pyc
