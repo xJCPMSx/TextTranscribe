@@ -23,7 +23,7 @@ pip install faster-whisper
 
 ### How to Use
 
-1.  Make sure you have an audio file named `audio.mp4` in the project's root directory.
+1.  Make sure you have an audio file named `audio.mp4` in the project's root directory. An `audio.mp4` file is included for demonstration purposes.
 2.  Run the desired script from your terminal. For the latest version:
     ```bash
     python transcrever2.1.py
@@ -55,7 +55,7 @@ pip install faster-whisper
 
 ### Como Usar
 
-1.  Certifique-se de que você tem um arquivo de áudio chamado `audio.mp4` no diretório raiz do projeto.
+1.  Certifique-se de que você tem um arquivo de áudio chamado `audio.mp4` no diretório raiz do projeto. Um arquivo `audio.mp4` está incluído para fins de demonstração.
 2.  Execute o script desejado a partir do seu terminal. Para a versão mais recente:
     ```bash
     python transcrever2.1.py
